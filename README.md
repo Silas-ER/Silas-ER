@@ -9,12 +9,12 @@
 </div>
   
 <div align="center">
-  <a href=""><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/silaseduardo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://replit.com/@SilasEd"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
-  <a href="https://www.udemy.com/user/silas-eduardo-3/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
-  <a href="https://github.com/SilasEd"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
-  <a href="https://open.spotify.com/user/37064nrjw8eyjv3tgspocaq72?si=51b3c26a996447e7"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href=""><img height="30px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png"> </a>
+  <a href="https://www.linkedin.com/in/silaseduardo"><img height="30px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png"> </a>
+  <a href="https://replit.com/@SilasEd"><img height="30px" src="https://storage.googleapis.com/replit/images/1639624946953_10f01364bd4141e691a099115f6fd88b.png"> </a>
+  <a href="https://www.udemy.com/user/silas-eduardo-3/"><img height="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/udemy_logo_icon_168372.png"> </a>
+  <a href="https://github.com/SilasEd"><img height="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_xd_macos_bigsur_icon_190424.png"> </a>
+  <a href="https://open.spotify.com/user/37064nrjw8eyjv3tgspocaq72?si=51b3c26a996447e7"><img height="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/spotify_icon_130826.png"> </a>
 </div>
   
   ##
