@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Oi, eu sou o Silas! 👋
-    
+    Atualmente estudando UX e HTML
 </div>
   
 <div align="center">
