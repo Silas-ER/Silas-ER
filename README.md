@@ -20,9 +20,9 @@
   
   ##
 <div align="center">
-  <a href="https://github.com/SilasEd">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SilasEd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasEd&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Silas-ER">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Silas-ER&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silas-ER&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
