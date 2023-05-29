@@ -18,12 +18,19 @@
   <a href="https://open.spotify.com/user/37064nrjw8eyjv3tgspocaq72?si=51b3c26a996447e7"><img height="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/spotify_icon_130826.png"> </a>
 </div>
   
-  ##
+<!--   ##
 <div align="center">
   <a href="https://github.com/Silas-ER">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Silas-ER&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silas-ER&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
+  ##
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SILAS-ER&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Silas github stats"/>
+  <a height="150em" href="https://github.com/SILAS-ER">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SILAS-ER&theme=dark&hide=html,css,shell" />
+  </a>
+  </div>
   
 <div style="display: inline_block" align="center"><br>
   <!-- <img align="center" alt="Silas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
