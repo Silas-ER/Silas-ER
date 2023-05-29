@@ -4,7 +4,7 @@
     Oi, eu sou o Silas! 👋
   </h1>
     <p> 
-      Atualmente estudando UX e HTML<br>
+      Atualmente estudando SQL e PYTHON<br>
       Me encontre nos links abaixo:
     </p>
 </div>
