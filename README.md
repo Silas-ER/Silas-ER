@@ -1,12 +1,20 @@
 
 <div align="center">
   <h1>
-    Oi, eu sou o Silas! 👋
+    Olá 👋, eu sou o Silas Eduardo
   </h1>
-    <p> 
-      Atualmente estudando SQL e PYTHON<br>
-      Me encontre nos links abaixo:
-    </p>
+
+  <h3>
+  Desenvolvedor FullStack • Python • Laravel • Vue • SQL
+  </h3>
+
+  <p>
+  Sempre aprendendo novas tecnologias e construindo soluções para automação e integrações.
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Back-end+Developer;Python;Laravel;SQL+Server+%26+MySQL;Automa%C3%A7%C3%A3o+de+Processos;Sempre+aprendendo+algo+novo" />
+  </p>
 </div>
   
 <div align="center">
