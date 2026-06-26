@@ -1,56 +1,85 @@
-
+<!-- Header -->
 <div align="center">
   <h1>
     Olá 👋, eu sou o Silas Eduardo
   </h1>
 
   <h3>
-  Desenvolvedor FullStack • Python • Laravel • Vue • SQL
+    Desenvolvedor FullStack • Python • Laravel • Vue • SQL
   </h3>
 
-  <p>
-  Sempre aprendendo novas tecnologias e construindo soluções para automação e integrações.
-  </p>
-
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Back-end+Developer;Python;Laravel;SQL+Server+%26+MySQL;Automa%C3%A7%C3%A3o+de+Processos;Sempre+aprendendo+algo+novo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=FullStack+Developer;Python;Laravel;SQL+Server+%26+MySQL;Vue;Automa%C3%A7%C3%A3o+de+Processos;" />
   </p>
 </div>
   
-<div align="center">
-  <a href=""><img height="30px" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png"> </a>
-  <a href="https://www.linkedin.com/in/silaseduardo"><img height="30px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png"> </a>
-  <a href="https://replit.com/@SilasEd"><img height="30px" src="https://storage.googleapis.com/replit/images/1639624946953_10f01364bd4141e691a099115f6fd88b.png"> </a>
-  <a href="https://www.udemy.com/user/silas-eduardo-3/"><img height="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/udemy_logo_icon_168372.png"> </a>
-  <a href="https://github.com/SilasEd"><img height="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_xd_macos_bigsur_icon_190424.png"> </a>
-  <a href="https://open.spotify.com/user/37064nrjw8eyjv3tgspocaq72?si=51b3c26a996447e7"><img height="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/spotify_icon_130826.png"> </a>
-</div>
-  
-<!--   ##
-<div align="center">
-  <a href="https://github.com/Silas-ER">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Silas-ER&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silas-ER&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
-  ##
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SILAS-ER&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Silas github stats"/>
-  <a height="150em" href="https://github.com/SILAS-ER">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SILAS-ER&theme=dark&hide=html,css,shell" />
-  </a>
-  </div>
-  
-<div style="display: inline_block" align="center"><br>
-  <!-- <img align="center" alt="Silas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Silas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img alt="Silas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Silas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Silas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Silas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img alt="Silas-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Silas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<!-- About Me -->
+## 👨‍💻 Sobre mim
 
- ##
+- 💼 Desenvolvedor Back-end
+- 🐍 Estudando Python
+- ⚙️ Laravel
+- 🗄 SQL Server e MySQL
+- 🤖 Automação de processos
+- 🌎 Brasil
  
-  
+<!-- Tecnologias -->
+## 🚀 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+## 🛠 Ferramentas
+
+VSCode
+
+Git
+
+Docker
+
+Postman
+
+Insomnia
+
+SQL Server
+
+MySQL Workbench
+
+DBeaver
+
+Jenkins
+
+Kafka
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=SILAS-ER&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SILAS-ER&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=SILAS-ER&theme=tokyonight"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SILAS-ER&theme=onedark&row=1"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)]
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify)]
